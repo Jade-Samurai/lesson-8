@@ -132,6 +132,28 @@ body{
 	height: 100%;
 	object-fit: cover;
 }
+
+/* FEATURE SECTION */
+
+.feature {
+	padding: 90px 0;
+	background: var(--main-color);
+}
+.feature-title {
+}
+.feature-box {
+}
+.feature-cards {
+	display: flex;
+	justify-content: space-between;
+	gap: 30px;
+}
+.feature-card {
+}
+.card-img {
+	flex: 1 1 25%;
+	height: 156px;
+}
 /* FOOTER */
 
 .footer {
